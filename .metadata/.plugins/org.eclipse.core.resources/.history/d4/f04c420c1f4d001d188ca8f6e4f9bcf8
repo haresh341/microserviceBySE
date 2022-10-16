@@ -1,0 +1,6 @@
+package com.haresh.entity;
+
+public class Employee {
+//	id, name, email, bloodgroup
+	private 
+}

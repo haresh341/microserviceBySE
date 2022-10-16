@@ -1,0 +1,13 @@
+package com.haresh;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class EmployeeServiceApplication2 {
+
+	public static void main(String[] args) {
+		SpringApplication.run(EmployeeServiceApplication2.class, args);
+	}
+
+}

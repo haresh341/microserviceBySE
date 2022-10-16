@@ -1,0 +1,5 @@
+package com.haresh.entity;
+
+public class Employee {
+
+}

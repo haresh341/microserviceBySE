@@ -1,0 +1,9 @@
+package com.haresh.repository;
+
+import org.springframework.data.jpa.repository.JpaRepository;
+
+import com.haresh.entity.Employee;
+
+public interface EmployeeRepository extends JpaRepository<Employee, Integer>{
+
+}

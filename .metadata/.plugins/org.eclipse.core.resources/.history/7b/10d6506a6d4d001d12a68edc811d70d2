@@ -1,0 +1,11 @@
+package com.haresh.addressapp.repository;
+
+import org.springframework.data.jpa.repository.JpaRepository;
+
+import com.haresh.addressapp.entity.Address;
+
+public interface AddressRepository extends JpaRepository<Address, Integer>{
+	
+	Address findAddressByEmployeeId(int id);
+
+}

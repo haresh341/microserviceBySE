@@ -1,0 +1,5 @@
+package com.haresh.addressapp.repository;
+
+public interface AddressRepository {
+
+}

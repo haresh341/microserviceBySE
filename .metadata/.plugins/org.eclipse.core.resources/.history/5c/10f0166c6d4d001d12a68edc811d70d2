@@ -1,0 +1,5 @@
+package com.haresh.addressapp;
+
+public class AddressService {
+
+}

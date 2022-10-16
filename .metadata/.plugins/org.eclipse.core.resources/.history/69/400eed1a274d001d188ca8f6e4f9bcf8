@@ -1,0 +1,5 @@
+package com.haresh.employeeapp;
+
+public class EmployeeAppConfiguration {
+
+}

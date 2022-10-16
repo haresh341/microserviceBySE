@@ -1,0 +1,5 @@
+package com.haresh.repository;
+
+public interface EmployeeRepository {
+
+}

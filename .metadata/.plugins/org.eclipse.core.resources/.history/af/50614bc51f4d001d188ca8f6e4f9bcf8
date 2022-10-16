@@ -1,0 +1,13 @@
+package com.haresh.employeapp.service;
+
+import org.springframework.stereotype.Service;
+
+import com.haresh.entity.Employee;
+
+@Service
+public class EmployeeService {
+	
+	public Employee getEmployeeById(int id) {
+		
+	}
+}
